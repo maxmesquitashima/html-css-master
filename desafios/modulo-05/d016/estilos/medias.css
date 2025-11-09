@@ -9,13 +9,13 @@
 */
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
-    section.coluna {
-        flex: 1 1 50%;
-    }
+  section.coluna {
+    flex: 1 1 50%;
+  }
 }
 
 @media screen and (min-width: 992px) {
-    section.coluna {
-        flex: 1 1 25%;
-    }
+  section.coluna {
+    flex: 1 1 25%;
+  }
 }
